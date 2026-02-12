@@ -1,6 +1,6 @@
-📡 Network Scanning & Enumeration Lab
+# Network Scanning & Enumeration Lab
 
-🔎 Overview
+# Overview
 
 This project documents a hands-on network reconnaissance lab conducted within a controlled environment (192.168.0.0/24).
 
@@ -14,7 +14,7 @@ Detect running services
 
 Compare multiple scanning tools
 
-🛠 Tools Used
+# Tools Used
 
 Angry IP Scanner
 
@@ -27,7 +27,7 @@ NetScan Tools Pro
 📊 Network Scope
 192.168.0.0/24
 
-🔍 Key Findings
+# Key Findings
 
 7 active hosts discovered
 
@@ -45,7 +45,7 @@ HTTP (80)
 
 Metasploitable machine identified with large attack surface
 
-📸 Screenshots
+# Screenshots
 
 Angry IP Scanner
 
@@ -55,11 +55,9 @@ NetScan Ping
 
 NetScan Port Scan
 
-📄 Full Report here: https://github.com/michaelolayiwola12-arch/network-scanning-lab/blob/main/Network_Scanning_Report_Michael_Olayiwola_Final_With_Screenshots%20(2).pdf
+Download Full PDF Report: https://github.com/michaelolayiwola12-arch/network-scanning-lab/blob/main/Network_Scanning_Report_Michael_Olayiwola_Final_With_Screenshots%20(2).pdf
 
-Download Full PDF Report
-
-🛡 Security Insight
+# Security Insight
 
 This lab demonstrates:
 
@@ -73,7 +71,7 @@ Exposure analysis
 
 It highlights how open ports increase attack surface and why network hardening is critical.
 
-🚀 Skills Demonstrated
+# Skills Demonstrated
 
 Network Reconnaissance
 
@@ -85,10 +83,8 @@ Tool Comparison
 
 Technical Documentation
 
-
-
-Author: Michael Olayiwola
+# Author: Michael Olayiwola
 
 Aspiring Application Security / Cybersecurity Professional
 
-LinkedIn:
+# LinkedIn:
