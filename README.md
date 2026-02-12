@@ -1,4 +1,5 @@
 📡 Network Scanning & Enumeration Lab
+
 🔎 Overview
 
 This project documents a hands-on network reconnaissance lab conducted within a controlled environment (192.168.0.0/24).
@@ -45,6 +46,7 @@ HTTP (80)
 Metasploitable machine identified with large attack surface
 
 📸 Screenshots
+
 Angry IP Scanner
 
 MegaPing
@@ -85,6 +87,7 @@ Technical Documentation
 
 
 Author: Michael Olayiwola
+
 Aspiring Application Security / Cybersecurity Professional
 
 LinkedIn:
