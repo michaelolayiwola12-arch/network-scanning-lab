@@ -55,7 +55,7 @@ NetScan Ping
 
 NetScan Port Scan
 
-📄 Full Report
+📄 Full Report here: https://github.com/michaelolayiwola12-arch/network-scanning-lab/blob/main/Network_Scanning_Report_Michael_Olayiwola_Final_With_Screenshots%20(2).pdf
 
 Download Full PDF Report
 
