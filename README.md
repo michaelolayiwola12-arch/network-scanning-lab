@@ -83,15 +83,7 @@ Tool Comparison
 
 Technical Documentation
 
-Commit changes.
-
-
-Add this at the bottom:
 
 Author: Michael Olayiwola
 Aspiring Application Security / Cybersecurity Professional
-
-
-You can also add:
-
 LinkedIn:
