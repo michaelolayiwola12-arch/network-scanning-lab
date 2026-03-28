@@ -85,4 +85,4 @@ Technical Documentation
 
 # Author: Michael Olayiwola
 
-Aspiring Application Security / Cybersecurity Professional
+Cybersecurity Professional | ISC2 CC Certified
